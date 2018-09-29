@@ -7,6 +7,9 @@
 //
 
 import Foundation
+let red = 9
+var green = "Hello!"
+green = "Bonjour!"
 
-print("Hello, World!")
+print(green)
 
