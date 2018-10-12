@@ -7,9 +7,8 @@
 //
 
 import Foundation
-let red = 9
-var green = "Hello!"
-green = "Bonjour!"
-
-print(green)
+let one: UInt16 = 2_000
+let two: UInt8 = 1
+let three = one + UInt16(one)
+print(three)
 
